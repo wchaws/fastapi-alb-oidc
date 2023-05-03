@@ -1,0 +1,5 @@
+gradio
+fastapi
+requests
+python-jose[cryptography]
+uvicorn[standard]
